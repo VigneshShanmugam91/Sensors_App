@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SENSORS</string>
+    <string name="type_accelerometer">ACCELEROMETER</string>
+    <string name="type_gyroscope">GYROSCOPE</string>
+    <string name="type_light">LIGHT SENSOR</string>
+    <string name="type_magnetic_field">MAGNETIC FIELD</string>
+    <string name="type_pressure">PRESSURE SENSOR</string>
+    <string name="type_proximity">PROXIMITY SENSOR</string>
+    <string name="task_sensor"> </string>
+
+    <string name="tv">⚙ MAINTENANCE ⚙</string>
+    <string name="temp">This constant was deprecated in API level 15.\n
+use Sensor.TYPE_AMBIENT_TEMPERATURE instead.</string>
+    <string name="orie">This constant was deprecated in API level 15.\n
+use SensorManager.getOrientation() instead.</string>
+    <string name="list_sensor">List Sensor</string>
+    <string name="about">About</string>
+    <string name="SV">Created By Vignesh Shanmugam \n vshanmug@buffalo.edu \n </string>
+    <string name="VS"> \n References : https://github.com/eby8zevin/android-Sensor</string>
+    <string name="pitch_sensor">Pitch Sensor: %1$.2f</string>
+    <string name="roll_sensor">Roll Sensor: %1$.2f</string>
+    <string name="no_sensor">No motion sensor available</string>
+
+</resources>
